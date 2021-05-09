@@ -1,0 +1,9 @@
+C:\Users\7\source\repos\BasicClient\BasicClient\bin\Debug\BasicClient.exe.config
+C:\Users\7\source\repos\BasicClient\BasicClient\bin\Debug\BasicClient.exe
+C:\Users\7\source\repos\BasicClient\BasicClient\bin\Debug\BasicClient.pdb
+C:\Users\7\source\repos\BasicClient\BasicClient\obj\Debug\BasicClient.csprojAssemblyReference.cache
+C:\Users\7\source\repos\BasicClient\BasicClient\obj\Debug\BasicClient.Client.resources
+C:\Users\7\source\repos\BasicClient\BasicClient\obj\Debug\BasicClient.Properties.Resources.resources
+C:\Users\7\source\repos\BasicClient\BasicClient\obj\Debug\BasicClient.csproj.GenerateResource.cache
+C:\Users\7\source\repos\BasicClient\BasicClient\obj\Debug\BasicClient.exe
+C:\Users\7\source\repos\BasicClient\BasicClient\obj\Debug\BasicClient.pdb

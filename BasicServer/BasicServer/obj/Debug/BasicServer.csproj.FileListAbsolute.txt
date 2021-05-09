@@ -1,0 +1,9 @@
+C:\Users\7\source\repos\BasicServer\BasicServer\bin\Debug\BasicServer.exe.config
+C:\Users\7\source\repos\BasicServer\BasicServer\bin\Debug\BasicServer.exe
+C:\Users\7\source\repos\BasicServer\BasicServer\bin\Debug\BasicServer.pdb
+C:\Users\7\source\repos\BasicServer\BasicServer\obj\Debug\BasicServer.csprojAssemblyReference.cache
+C:\Users\7\source\repos\BasicServer\BasicServer\obj\Debug\BasicServer.Properties.Resources.resources
+C:\Users\7\source\repos\BasicServer\BasicServer\obj\Debug\BasicServer.Server.resources
+C:\Users\7\source\repos\BasicServer\BasicServer\obj\Debug\BasicServer.csproj.GenerateResource.cache
+C:\Users\7\source\repos\BasicServer\BasicServer\obj\Debug\BasicServer.exe
+C:\Users\7\source\repos\BasicServer\BasicServer\obj\Debug\BasicServer.pdb
